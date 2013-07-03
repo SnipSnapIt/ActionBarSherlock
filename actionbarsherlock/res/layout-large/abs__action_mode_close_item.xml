@@ -36,5 +36,6 @@
               android:textAppearance="?android:attr/textAppearanceSmall"
               android:textSize="12sp"
               android:textAllCaps="true"
+              android:textColor="@android:color/white"
               android:text="@string/abs__action_mode_done" />
 </com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout>

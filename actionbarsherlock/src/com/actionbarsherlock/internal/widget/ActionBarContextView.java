@@ -17,6 +17,7 @@ package com.actionbarsherlock.internal.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
+import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.text.TextUtils;
 import android.util.AttributeSet;
@@ -186,6 +187,7 @@ public class ActionBarContextView extends AbsActionBarView implements AnimatorLi
             if (mSubtitleStyleRes != 0) {
                 mSubtitleView.setTextAppearance(mContext, mSubtitleStyleRes);
             }
+            mTitleView.setTextColor(Color.WHITE);
         }
 
         mTitleView.setText(mTitle);
