@@ -67,7 +67,7 @@
         <!-- Internal --><item name="listPopupWindowStyle">@style/Widget.Sherlock.ListPopupWindow</item>
 
         <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
-        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_white</item>
         <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
         <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
         <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
@@ -141,7 +141,7 @@
         <!-- Internal --><item name="listPopupWindowStyle">@style/Widget.Sherlock.Light.ListPopupWindow</item>
 
         <item name="searchDropdownBackground">@drawable/abs__search_dropdown_light</item>
-        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_light</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_white</item>
         <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_light</item>
         <item name="searchViewCloseIcon">@drawable/abs__ic_clear_holo_light</item>
         <item name="searchViewSearchIcon">@drawable/abs__ic_search_api_holo_light</item>
@@ -184,7 +184,7 @@
 
         <!-- We want the dark action bar SearchView stuff -->
         <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
-        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_white</item>
         <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
         <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
         <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
